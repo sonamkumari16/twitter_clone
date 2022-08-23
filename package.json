@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "connect-sqlite3": "^0.9.13",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "harperive": "^2.0.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-google-oidc": "^0.1.0"
+  },
+  "name": "twitter-front",
+  "version": "1.0.0",
+  "main": "script.js",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
